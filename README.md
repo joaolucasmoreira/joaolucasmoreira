@@ -1,5 +1,4 @@
-# Olá! Eu sou João Lucas! Seja bem vindo ao meu perfil! :star::grin::star: 
-
+# Olá! Eu sou João Lucas! Seja bem vindo ao meu perfil!
 ### :bust_in_silhouette: Nome: João Lucas Teixeira Moreira
 ### :bust_in_silhouette: Idade: 17 anos
 
