@@ -2,15 +2,15 @@
 ### :bust_in_silhouette: Name: João Lucas Teixeira Moreira
 ### :bust_in_silhouette: Age: 17 years old
 
-### I´m looking for web developer role.
+### I´m looking for web developer role
 
-### I'm seeking for colaborating at React/Node opensource projects
+### I'm seeking to collaborate on React/Node open-source projects
 
 <br>
 
 # Information
-### :cityscape: Live in [São Gonçalo do Rio Abaixo - MG](https://goo.gl/maps/EuYBAs4jLspRrbYNA)
-### :book: Student in [Senai São Gonçalo do Rio Abaixo CFP José Fernando Coura](https://goo.gl/maps/r7xcXAuoZVSwBhbV9)
+### :cityscape: Living in [São Gonçalo do Rio Abaixo - MG](https://goo.gl/maps/EuYBAs4jLspRrbYNA)
+### :book: Student at [Senai São Gonçalo do Rio Abaixo CFP José Fernando Coura](https://goo.gl/maps/r7xcXAuoZVSwBhbV9)
 
 <br>
 
