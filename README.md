@@ -8,7 +8,7 @@
 
 <br>
 
-# Informações
+# Information
 ### :cityscape: Live in [São Gonçalo do Rio Abaixo - MG](https://goo.gl/maps/EuYBAs4jLspRrbYNA)
 ### :book: Student in [Senai São Gonçalo do Rio Abaixo CFP José Fernando Coura](https://goo.gl/maps/r7xcXAuoZVSwBhbV9)
 
