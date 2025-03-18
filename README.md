@@ -2,8 +2,9 @@
 ### :bust_in_silhouette: Name: João Lucas Teixeira Moreira
 ### :bust_in_silhouette: Age: 17 years old
 
-I´m looking for web developer role.
-I'm seeking for colaborating at React/Node opensource projects
+# I´m looking for web developer role.
+
+# I'm seeking for colaborating at React/Node opensource projects
 
 <br>
 
