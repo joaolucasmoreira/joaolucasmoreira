@@ -1,19 +1,31 @@
-# Hello! I'm João Lucas! Welcome to my profile!
-### :bust_in_silhouette: Name: João Lucas Teixeira Moreira
-### :bust_in_silhouette: Age: 17 years old
+# 👋 Olá, eu sou João Lucas!
 
-### I´m looking for web developer role
+Sou estudante de **Desenvolvimento Web com PHP** e estou aprendendo a construir aplicações web modernas. Este repositório serve como meu portfólio de projetos e exercícios do curso. 🚀
 
-### I'm seeking to collaborate on React/Node open-source projects
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** PHP, HTML, CSS, JavaScript
+- **Banco de Dados:** MySQL
+- **Frameworks:** Laravel, Bootstrap
+- **Ferramentas:** Git, GitHub, VS Code, XAMPP
 
-<br>
+## 📌 Projetos e Exercícios
+Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
 
-# Information
-### :cityscape: Living in [São Gonçalo do Rio Abaixo - MG](https://goo.gl/maps/EuYBAs4jLspRrbYNA)
-### :book: Student at [Senai São Gonçalo do Rio Abaixo CFP José Fernando Coura](https://goo.gl/maps/r7xcXAuoZVSwBhbV9)
+🔹 A definir
+<!-- 🔹 [Projeto 2](https://github.com/seu-usuario/projeto-2) - Breve descrição do projeto.
+🔹 [Projeto 3](https://github.com/seu-usuario/projeto-3) - Breve descrição do projeto. -->
 
-<br>
+## 📖 O que estou aprendendo
+✔️ Fundamentos do PHP e MySQL  
+✔️ Estruturação de projetos web  
+✔️ Controle de versão com Git e GitHub  
+✔️ Desenvolvimento de aplicações dinâmicas  
 
-# Repositories:
+## 📬 Contato
+📧 Email: [jl7084139@gmail.com](mailto:jl7084139@gmail.com)  
+🔗 GitHub: [github.com/joaolucasmoreira](https://github.com/joaolucasmoreira)  
+🔗 LinkedIn: [linkedin.com/in/jlteixeira](https://www.linkedin.com/in/jlteixeira/)  
 
-### :arrow_forward: [MIT App Inventor](https://github.com/JLTM2022/MEUS_PROJETOS_NO_APP_INVENTOR)
+---
+
+💡 _"Aprender a programar é abrir portas para um novo mundo de possibilidades!"_
